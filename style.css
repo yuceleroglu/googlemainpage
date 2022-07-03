@@ -1,0 +1,50 @@
+body, div, span, applet, h1, h2, h3, p, a, img, strong, sub, sup, center, dl, dt, dd, ol, ul, li, table, tr, th, td { 
+    margin:0px; 
+    padding:0px; 
+    border:0px; 
+    outline:0px; 
+}
+.logo {
+    width: 351px;
+    height: 159px;
+    display: block;
+    margin: 0 auto;
+}
+section {
+    width: 90%;
+    display: block;
+    margin: 0 auto;
+}
+.clear {
+    clear: both;
+}
+.search-area {
+    display: block;
+    background-color: #EEE;
+    border-bottom: 2px solid #fff;
+}
+.linkler {
+    display: block;
+}
+.link1, .link2, .link3 {
+    float: left;
+    height: 75px;
+    padding: 10px 0;
+}
+.link1 {
+    width: 35%;
+    background-color: #7EE5DA;
+
+}
+.link2 {
+    width: 20%;
+    background-color: #70CCC2;
+}
+.link3 {
+    width: 45%;
+    background-color: #62B3AA;
+}
+
+footer {
+    text-align: center;
+}
